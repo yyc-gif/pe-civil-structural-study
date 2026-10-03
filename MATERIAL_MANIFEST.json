@@ -1,0 +1,164 @@
+[
+  {
+    "path": "01_Practice_Exams/EIT_Experts/EIT_Experts_Four_PE_Civil_Practice_Exams_2015.pdf",
+    "pages": 272,
+    "bytes": 3806395,
+    "sha256": "138930aef71d2616d9b8ad794e058220152ac0c12fbd18197726ca3889c9ea79"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_01.pdf",
+    "pages": 81,
+    "bytes": 1575878,
+    "sha256": "5d1787e4af6770bc9da0533d7973104a0bf2c1bf2bd79bd09db7eb6ce26eec70"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_02.pdf",
+    "pages": 79,
+    "bytes": 1570608,
+    "sha256": "42549e51adfaa93fb1b1e20c4e32b20a2abd52ecb45aacb70d2d161fce34f4d3"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_03.pdf",
+    "pages": 80,
+    "bytes": 1717784,
+    "sha256": "fc189208f9dc76737e4b884e8891d4b5b835fe548617c9e53d79d6d39c904c96"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_04.pdf",
+    "pages": 82,
+    "bytes": 1577094,
+    "sha256": "2424589ef0c35e2bd4553c5e61e00df22c65e3756311afc28dd7c69dc67c1d1c"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_05.pdf",
+    "pages": 81,
+    "bytes": 1524912,
+    "sha256": "912cf87afe51cd4279dd754ccdbfc9d0f258b1de4b2e21f824839acb3385f427"
+  },
+  {
+    "path": "01_Practice_Exams/Learnova/Learnova_PE_Civil_Structural_Practice_Exam_06.pdf",
+    "pages": 82,
+    "bytes": 1756452,
+    "sha256": "76d7e25c443ba6944e67a5a905f99c0459fc10ac3d53c86dd0868f4cfc8d4b74"
+  },
+  {
+    "path": "01_Practice_Exams/NCEES/NCEES_PE_Civil_Structural_Practice_Exam_2014.pdf",
+    "pages": 104,
+    "bytes": 25353162,
+    "sha256": "50b56ce60924ea3059eec490e31903a8c677511b51a5241458b50ec47b8b89ba"
+  },
+  {
+    "path": "01_Practice_Exams/NCEES/NCEES_PE_Civil_Structural_Practice_Exam_2021.pdf",
+    "pages": 98,
+    "bytes": 3232066,
+    "sha256": "cb50f280afab05c4b1a51a1b8e35f2650288df5aa7779cde6460bd844a0cf219"
+  },
+  {
+    "path": "01_Practice_Exams/NCEES/NCEES_PE_Civil_Structural_Practice_Exam_2023.pdf",
+    "pages": 93,
+    "bytes": 3761539,
+    "sha256": "020992d75ce5b40bcbfd8f5c995fc21d2573bfff7c144032fd98730e9dcac1b5"
+  },
+  {
+    "path": "02_Practice_Problems/EIT_Experts_PE_Civil_Practice_Problems_2015.pdf",
+    "pages": 1670,
+    "bytes": 17458169,
+    "sha256": "93f5496a9f38dd61fb37e4367962b1d7e716824921f06d2466186fbdd5c4316e"
+  },
+  {
+    "path": "02_Practice_Problems/Learnova_PE_Civil_Structural_501_Practice_Problems_and_Solutions.pdf",
+    "pages": 510,
+    "bytes": 8527968,
+    "sha256": "84896d47a95beb5a0de90e2bf4243bd756bacd76b575f747e3815973f5963775"
+  },
+  {
+    "path": "03_GPT_Review_and_Code_Lookup/PE_Civil_Structural_GPT_Review_and_Code_Lookup.pdf",
+    "pages": 56,
+    "bytes": 906776,
+    "sha256": "aefe2396bc9acb4782536d282a5958963cf90a9cf48de773ce3f45f41979d115"
+  },
+  {
+    "path": "04_Priority_Review/Learnova_179_Wrong_Questions_and_Solutions_Priority_P0_to_P4.pdf",
+    "pages": 56,
+    "bytes": 2700332,
+    "sha256": "fbc13e124ec33d388559cc86092c8942c1db1ba648d3170165570a084f6fa47f"
+  },
+  {
+    "path": "04_Priority_Review/Learnova_30_Additional_Answers_Priority_Review.pdf",
+    "pages": 10,
+    "bytes": 299054,
+    "sha256": "b1ba68b7690ef210eaa126bde89b15917e6eef4ebadeb29672eb0bf04090ba11"
+  },
+  {
+    "path": "05_Handbooks_and_Code_References/AWC_NDS_2018_Commentary_Excerpt.pdf",
+    "pages": 107,
+    "bytes": 1942350,
+    "sha256": "a4bd705ae0b6f0c1146d87d3356d5e23020238f934b87a425599b3b178638568"
+  },
+  {
+    "path": "05_Handbooks_and_Code_References/AWC_NDS_2018_Supplement_Chapter_4_Reference_Design_Values.pdf",
+    "pages": 50,
+    "bytes": 7324119,
+    "sha256": "a183ddb6a3e5f9d453c89045bb04fad89d1d0930ba46a3422e67fbd0c2c5bcf9"
+  },
+  {
+    "path": "05_Handbooks_and_Code_References/AWC_SDPWS_2015_Chapter_4_With_Commentary.pdf",
+    "pages": 32,
+    "bytes": 2159912,
+    "sha256": "c39de6de1d70ba75cc8984db74c47ea94c4190cd02f733c2a9fb3ac1708c0cd5"
+  },
+  {
+    "path": "05_Handbooks_and_Code_References/NCEES_PE_Civil_Reference_Handbook_v2.2.pdf",
+    "pages": 502,
+    "bytes": 12033307,
+    "sha256": "ffe52db1fce2e34a142c1cebe7d3348b0bd084b15fff8625e34484fcee91843f"
+  },
+  {
+    "path": "05_Handbooks_and_Code_References/OSHA_29_CFR_1910_General_Industry_2020.pdf",
+    "pages": 845,
+    "bytes": 8590267,
+    "sha256": "6045f9e43a94fe5c4569691a6a86b45fdf1d478417e2d41a0338479317544d7a"
+  },
+  {
+    "path": "06_FE_Supplemental_Study/NCEES_FE_Civil_Practice_Exam_2017.pdf",
+    "pages": 109,
+    "bytes": 10917578,
+    "sha256": "c6cbe4851027a51c37da3457a323f30f63d25ec1a229e3d13b6ca1b7e5dee1a5"
+  },
+  {
+    "path": "06_FE_Supplemental_Study/NCEES_FE_Civil_Practice_Exam_2020.pdf",
+    "pages": 114,
+    "bytes": 21786551,
+    "sha256": "723541cd1a65cbd4ad0744d4af0dfd0889a2cdbd692a4d144e1e73d563fc3f84"
+  },
+  {
+    "path": "06_FE_Supplemental_Study/NCEES_FE_Reference_Handbook_v10.5.pdf",
+    "pages": 502,
+    "bytes": 7838569,
+    "sha256": "8268bbd377b7f1d1de61fb3f4bcda1e29a22ef88a7a2c2942c66927f472ade47"
+  },
+  {
+    "path": "07_CA_Licensure_and_State_Exams/CA_Civil_Engineering_Surveying_Candidate_Information_Bulletin.pdf",
+    "pages": 8,
+    "bytes": 299352,
+    "sha256": "693c9cf75689631eea0a116185a1f16eebcdaa8b621e17fedb08d1fdbf832d08"
+  },
+  {
+    "path": "07_CA_Licensure_and_State_Exams/CA_Civil_Seismic_Principles_Candidate_Information_Bulletin.pdf",
+    "pages": 7,
+    "bytes": 277503,
+    "sha256": "4b2ec92b739cd4f3f802754539cb6a4d1bce537d7eb71a8f5e9ae32caeca3cfd"
+  },
+  {
+    "path": "07_CA_Licensure_and_State_Exams/CA_Civil_Seismic_Principles_Sample_Questions.pdf",
+    "pages": 1,
+    "bytes": 21517,
+    "sha256": "4f9805b1a443ddab824a9f2b88f9be1fa02e992668eaf64e80461a9babc270f3"
+  },
+  {
+    "path": "07_CA_Licensure_and_State_Exams/CA_PE_Licensure_Eligibility_Flowchart.pdf",
+    "pages": 1,
+    "bytes": 562480,
+    "sha256": "77679914ee614b049a3f8b3f085de1f62417911737895f908147fa5fcbb4cdbf"
+  }
+]
